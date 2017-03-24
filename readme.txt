@@ -1,0 +1,1 @@
+pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org celery[redis]==3.1.25
